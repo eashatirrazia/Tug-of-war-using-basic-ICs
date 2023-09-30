@@ -1,2 +1,2 @@
 # Tug-of-war-using-basic-ICs
-An implementation of tug-of-war using basic ICs
+An implementation of tug-of-war using basic ICs. The Proteus simulation of the circuit includes two buttons for each team and a display of LEDs to represent the center of the rope changing as either team presses their button faster. It also have a display of scoreboard for each team and a restart logic circuit. There are continuous 18 matches and the team to win the first 9 wins as displayed on the scoreboard.
